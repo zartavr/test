@@ -1,0 +1,10 @@
+# libraries usually exported too by installing 
+# lib/ -> compiled library we are exporting
+
+# other
+/build
+.settings
+!.settings/com.atollic.truestudio.debug.hardware_device.prefs // stm target settings
+.idea
+
+.pyc
